@@ -6,11 +6,11 @@ export default function Hero() {
     <section id="top" className="hero-section section-gap">
       <div className="container hero-grid">
         <AnimatedBlock className="hero-copy" delay={0.1}>
-          <p className="hero-kicker">Customer Experience & Marketing Operations</p>
+          <p className="hero-kicker">Customer Experience Operations</p>
           <h1>Building smooth customer journeys with measurable brand momentum.</h1>
           <p className="hero-summary">
             I help businesses improve client communication, streamline service operations,
-            and execute marketing campaigns that align with growth goals.
+            and execute customer programs that align with growth goals.
           </p>
           <div className="hero-actions">
             <a className="btn btn-solid" href="mailto:hasanahmdalam@gmail.com">

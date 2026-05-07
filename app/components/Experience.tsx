@@ -2,7 +2,7 @@ import AnimatedBlock from "./AnimatedBlock";
 
 const roles = [
   {
-    title: "Operations & Marketing Coordinator",
+    title: "Operations Coordinator",
     period: "Dec 2025 - May 2026",
     company: "Incepta",
     points: [
@@ -16,8 +16,8 @@ const roles = [
     period: "Jan 2023 - May 2024",
     company: "Incepta",
     points: [
-      "Supported marketing strategy execution tied to business goals and campaign outcomes.",
-      "Contributed to a collaborative, results-driven environment across marketing operations.",
+      "Supported service strategy execution tied to business goals and client outcomes.",
+      "Contributed to a collaborative, results-driven environment across service operations.",
       "Helped maintain brand consistency across communication channels and materials."
     ]
   }
@@ -29,7 +29,7 @@ export default function Experience() {
       <div className="container">
         <AnimatedBlock className="section-heading" delay={0.05}>
           <p className="panel-label">Experience Highlights</p>
-          <h2>Hands-on work across service coordination and marketing execution.</h2>
+          <h2>Hands-on work across service coordination and customer execution.</h2>
         </AnimatedBlock>
 
         <div className="timeline" aria-label="Professional experience timeline">

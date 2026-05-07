@@ -8,7 +8,7 @@ export default function About() {
           <p className="panel-label">About</p>
           <h2>A client-first professional with a growth mindset.</h2>
           <p>
-            With a background in customer interaction and digital marketing, I bridge the
+            With a background in customer interaction and service operations, I bridge the
             gap between business goals and daily client experience. I am known for being
             adaptable, organized, and committed to high standards of communication.
           </p>

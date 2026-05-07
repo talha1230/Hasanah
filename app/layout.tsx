@@ -15,9 +15,9 @@ const bodyFont = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Hasanah Md Alam | Customer & Marketing Website",
+  title: "Hasanah Md Alam | Customer Experience Website",
   description:
-    "A premium one-page website showcasing customer experience and marketing leadership by Hasanah Md Alam."
+    "A premium one-page website showcasing customer experience leadership by Hasanah Md Alam."
 };
 
 export default function RootLayout({
